@@ -49,4 +49,3 @@ To enhance the project, the following improvements can be made:
 - Adding more features like extracurricular activities and internships.
 - Testing other machine learning models like Decision Trees or Random Forest.
 - Improving data quality for better prediction accuracy.
--
